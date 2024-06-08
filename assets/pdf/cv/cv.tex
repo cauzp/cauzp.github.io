@@ -1,0 +1,230 @@
+% --- LaTeX CV Template - S. Venkatraman ---
+
+% Set document class and font size
+\documentclass[letterpaper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+
+% Package imports
+\usepackage[T1]{fontenc} % Add this line
+\usepackage{setspace, longtable, graphicx, hyphenat, hyperref, fancyhdr, ifthen, everypage, enumitem, amsmath, setspace}
+\usepackage{libertine} % Add this line
+
+% --- Page layout settings ---
+
+% Set page margins
+\usepackage[left=1in, right=1in, bottom=0.7in, top=0.7in]{geometry}
+
+% Set line spacing
+\renewcommand{\baselinestretch}{1.15}
+
+% --- Page formatting ---
+
+% Set link colors
+\usepackage[dvipsnames]{xcolor}
+\hypersetup{colorlinks=true, linkcolor=RoyalBlue, urlcolor=RoyalBlue}
+
+% Set font to Libertine, including math support
+\usepackage[libertine]{newtxmath}
+
+% Remove page numbering
+\pagenumbering{gobble}
+
+% --- Document starts here ---
+
+\begin{document}
+
+% Name and date of last update to this document
+\begin{center}
+    \Huge Pu ZHANG
+\end{center}
+\hfill{\it\footnotesize Updated \today}}
+
+% --- Contact information and other items ---
+
+\vspace{0cm} 
+\begin{center}
+\begin{tabular}{lll}
+% Line 1: Email, GitHub, office location
+\textbf{Email}: pzhang012@connect.hkust-gz.edu.cn     &
+\hspace{0.1in} \textbf{HomePage} \href{https://pzhang.cn}{pzhang.cn}    &
+% \hspace{0.4in} 	\textbf{Office}: Your Building 101 \\
+
+% Line 2: Phone number, LinkedIn, citizenship
+% \hspace{0.1in} \textbf{Phone}: (+86)18801293560   
+% \hspace{0.55in} \textbf{LinkedIn}: //LinkedIn-URL   & 
+\hspace{0.1in} \textbf{Location}: Guangzhou, China 
+\end{tabular}
+\end{center}
+
+% --- Start the two-column table storing the main content ---
+
+% Set spacing between columns
+\setlength{\tabcolsep}{8pt}
+
+% Set the width of each column
+\begin{longtable}{p{1.3in}p{4.8in}}
+
+
+% --- Section: Research interests ---
+
+\nohyphens{\color{RoyalBlue}{Research Interests}}
+& \bf{Social Media Research, Computational Social Science, Disaster Risk Perception, LLM for Social Science, LLM for Agent-based Simulation}\\
+& \\
+
+
+% --- Section: Education ---
+
+% & \textbf{University 1} \hfill City, State \\ 
+% & PhD in Subject \hfill Month Year -- Present \\
+% & Mentors: Professors A, B. {\it GPA: X.YZ.}\\
+% & \\
+\color{RoyalBlue}{Education} 
+& \textbf{\href{https://www.hkust-gz.edu.cn/}{The Hong Kong University of Science and Technology (Guangzhou)}} \\
+& \hfill Guangzhou, China \\
+& \href{https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-mphil-program/}{Red Bird Mphil} in \href{https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/innovation-policy-and-entrepreneurship/}{Innovation, Policy and Entrepreneurship} \\
+& Supervisor: Assistant Professor \href{https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XU-Kewei/coreyxu}{Corey Kewei XU}  \hfill Sep 2023 -- Jun 2025\\
+& Co-Supervisor: Assistant Professor \href{https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/TANG-Jing/jingtang}{Jing TANG}  \hfill Sep 2023 -- Jun 2025\\
+& \\
+
+& \textbf{\href{http://en.cau.edu.cn/}{China Agricultural University}} \hfill Beijing, China\\
+& BA in Regional Development in Rural Areas \hfill{\it GPA: 3.51/4.0} \\
+& Supervisor: Associate Professor \href{https://cohd.cau.edu.cn/art/2020/11/27/art_48059_998984.html}{Feng KONG}  \hfill Sep 2019 -- Jun 2023\\
+& BA in Data Science and Big Data Technology  \hfill{\it GPA: 3.6/4.0} \\
+& Mentors: Director Hui Li \hfill Sep 2021 -- Jun 2023 \\
+& \\
+
+% --- Section: Service and outreach ---
+
+\color{RoyalBlue}{Workshop}
+& \textbf{Tsinghua Big Data and Causal Inference Seminar } \hfill Oct 2023 -- Jan 2024 \\
+& The workshop systematically explains a range of computational social science research methods, including text analysis, social network analysis, and double-differencing. It is organized by the Laboratory of Computational Social Science and National Governance of Tsinghua University. \\
+& \\
+
+% --- Uncomment the next few lines if you want to include some courses ---
+% & \textbf{Selected coursework}
+% \begin{itemize}[noitemsep,leftmargin=*]
+% \item \underline{Relevant subject 1}: Course 1, Course 2, Course 3, Course 4
+% \item \underline{Relevant subject 2}: Course 1, Course 2, Course 3, Course 4
+% \end{itemize} \\
+
+% --- Section: Publications ---
+\nohyphens{\color{RoyalBlue}{Publications}} 
+
+& \textbf{Pu ZHANG}, Hao ZHANG, Feng KONG*. Study on the Evolution of Online Public Opinion and Government Response Strategies for the “7-20” extraordinary rainstorm and flooding disaster in Zhengzhou, China}. \textit{Natural Hazards},\textbf{ Accepted and pending publication}, \bf(SCI Q2, IF: 3.7 )\\
+& \\
+
+& \textbf{Pu ZHANG}, Hao ZHANG, and Feng KONG*. Research on online public opinion in the investigation of the “7–20” extraordinary rainstorm and flooding disaster in Zhengzhou, China. \textit{International Journal of Disaster Risk Reduction}, { 105 (2024): 104422.} \href{https://doi.org/10.1016/j.ijdrr.2024.104422}{doi.org/10.1016/j.ijdrr.2024.104422} \bf(SCI Q1, IF: 5.0 )\\
+
+&\\
+& \textbf{Pu ZHANG}, Hao ZHANG, and Feng KONG*, Yulong KONG. {A study on public opinion characteristics of rainstorm flooding disasters based on Sina Weibo data: take the three rainstorm flooding disasters in China in 2021 as an example}. \textit{Water Resources And Hydropow Erengineering}, {54.02(2023): 47-59}. \href{https:\\doi:10.13928/j.cnki.wrahe.2023.02.005}{doi:10.13928/j.cnki.wrahe.2023.02.005}. \bf(In Chinese)\\
+
+&\\
+
+
+
+% --- Section: Research experience ---
+
+\nohyphens{\color{RoyalBlue}{Research Experience}} 
+& \textbf{Research on Internet Public Opinion of Emergency Events Based on Natural Language Processing} \\
+& Supervisor: Professor Feng KONG  \hfill Sep 2022 -- Present \\
+& Using Python based crawler software to collect social media data from Sina Weibo platform, using Bert fine-tuning model for sentiment analysis, visualization. For thematic task, I Use Gephi for social networking analysis and visualization, then make an assessment of public opinion features and governance recommendations. \\
+& \\
+
+& \textbf{Enhancing Urban Resilience through AI: Modeling, Simulating, and Mitigating Catastrophic Risk Scenarios
+} \\
+& Supervisors: Professor Corey Xu and Jing TANG \hfill Sep 2023 -- Present \\
+& Relying on social media data, I will use large language models to perform sentiment analysis and theme analysis tasks to assess the risk perception of people in major sudden natural disaster scenarios related online public opinion characteristics. On this basis, a questionnaire is designed to collect basic personal information and disaster risk perception from the public, and then a large language model is used to empower the intelligentsia to simulate the risk perception characteristics of the general public in specific disaster situations, in order to deeply understand the risk perception differences between different social groups in different disaster scenarios.\\
+& \\
+
+% --- Section: Teaching experience ---
+
+% {\color{RoyalBlue}{Teaching experience}} 
+% & \textbf{Teaching assistant, Department of Subject (University)} \hfill Fall 2020 \\
+% & STAT 123: Name of course here \\
+% & Topics and description of your responsibilities. Aliquam volutpat est vel massa. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque. \\
+% & \textit{Average student rating: X/5.} \\
+% & \\
+
+% & \textbf{Teaching assistant, Department of Subject (University)} \hfill Spring 2020 \\
+% & STAT 234: Name of course here \\
+% & Topics and description of your responsibilities. Aliquam volutpat est vel massa. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque. \\
+% & \textit{Average student rating: X/5.} \\
+% & \\
+
+% & \textbf{Teaching assistant, Department of Subject (University)} \hfill Spring 2020 \\
+% & STAT 345: Name of course here \\
+% & Topics and description of your responsibilities. Aliquam volutpat est vel massa. \\
+% & \textit{Average student rating: X/5.} \\
+% & \\
+
+% --- Section: Industry experience ---
+
+% {\color{RoyalBlue}{Industry experience}} 
+% & {\textbf{Name of company,}} Division of company \hfill City, State\\
+% & Title of job or internship \hfill Summer 2020 \\
+% & Description of your responsibilities. Integer pretium semper justo. Proin risus. Nullam id quam. Nam neque. Phasellus at purus et lib ero lacinia dictum. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque.\\
+% & \\
+ 
+% & {\textbf{Name of company,}} Division of company \hfill City, State\\
+% & Title of job or internship \hfill Summer 2020 \\
+% & Description of your responsibilities. Integer pretium semper justo. Proin risus. Nullam id quam. Nam neque. Phasellus at purus et lib ero lacinia dictum. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque.\\
+% & \\
+
+% --- Section: Talks and tutorials ---
+
+% {\color{RoyalBlue}{Talks and tutorials}} 
+% & \textbf{Title of your most recent presentation} \hfill Month Year \\
+% & Name of conference, workshop, seminar, venue, etc., or a description \\
+% & \\
+
+% & \textbf{Title of your second most recent presentation} \hfill Month Year \\
+% & Name of conference, workshop, seminar, venue, etc., or a description \\
+% & \\
+
+% --- Section: Awards, scholarships, etc. ---
+% --- Note: section title is spread over two lines ---
+
+{\color{RoyalBlue}{Selected Honors }} 
+&  National Inspiration Scholarship  \hfill 2022\\
+{\color{RoyalBlue}{and Scholarships}} 
+& China Telecom Scholarship \hfill 2021 \\
+& Beijing Challenge Cup Second Prize \hfill 2022 \\
+& Red Bird MPhil Postgraduate Scholarship \hfill 2023-2025 \\
+& \\
+
+% --- Section: Various skills (programming, software, languages, etc.) ---
+
+{\color{RoyalBlue}{Skills}} 
+% & \textbf{Programming language \& Software Experience}\\
+&Python, R, LaTeX, Gephi, VosViewer\\
+% & Familiar with: programming language 3, programming language 4. \\
+% & \\
+{\color{RoyalBlue}{Languages}} 
+% & \textbf{Languages} \\
+&Chinese Mandarin (native), English (TOEFL 106, July 2022) \\
+% & \\
+
+% --- Section: Service and outreach ---
+
+% \color{RoyalBlue}{Service and outreach}
+% & \textbf{Title of organization you were in} \hfill Month Year -- Month Year \\
+% & Description of your responsibilities. Integer pretium semper justo. Proin risus. Aliquam volutpat est vel massa. \\
+% & \\
+
+% --- Section: Professional society memberships ---
+% --- Note: section title is spread over two lines ---
+
+% {\color{Blue}{Professional}} 
+% & {\textbf{Name of professional society.}} \hfill Month Year -- Present \\
+% {\color{Blue}{memberships}} 
+% & Some things you did or conferences you attended. Aliquam volutpat est vel massa. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque. \\
+% & \\
+
+% --- Section: Other interests/hobbies ---
+
+% \nohyphens{\color{Blue}{Other interests}} & Some of your hobbies etc.\\
+
+% --- End of CV! ---
+
+\end{longtable}
+\end{document}
