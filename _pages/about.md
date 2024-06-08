@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-mphil-program/'>Red Bird MPhil Student</a>
+subtitle: <a href='https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-mphil-program/' target="_blank">Red Bird MPhil Student</a>
 
 profile:
   align: right
