@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-mphil-program/'>Red Bird MPhil Student</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pzhang.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am currently pursuing a MPhil at [the Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). My supervisor at this master program is [Prof. Corey Kewei XU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XU-Kewei/coreyxu). I also have a co-supervisor, [Prof. Jing TANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=285). My main research interests are disaster-related online public opinion and the application of large language model agents in the field of disaster risk perception.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I obtained a Bachelor of Administration degree (Regional Development in Rural Areas) and a Bachelor of Science degree (Data Science and Big Data Technology) from [China Agricultural University](https://cau.edu.cn/). At that time I focused on social media online opinion research. My supervisor [Prof. Feng KONG](https://cohd.cau.edu.cn/art/2020/11/27/art_48059_998984.html) is a scholar in the field of disaster and emergency management.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* **Social Media Research**
+* **Computational Social Science**
+* **Disaster Risk Perception**
+* **Large Language Model for Agent-Based Analysis**
