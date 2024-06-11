@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 2 February 1997
     - name: Languages
-      value: Chinese (Mandarin),English
+      value: Chinese (Mandarin), English
 
 - title: Education
   type: time_table
@@ -15,7 +15,7 @@
       institution: The Hong kong university of science and technology (Guangzhou)
       year: 2023-2025
       description:
-        - Innovative, Public Policy and Entrepreneurship
+        - Innovation, Public Policy and Entrepreneurship
         - Assessing Disaster Risk Perceptions of Disaster Populations Using Large Language Models
     - title: B.A. and B.S.
       institution: China Agricultural University
