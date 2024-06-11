@@ -9,7 +9,7 @@ last_name: ZHANG
 email: zpzxm@qq.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pu ZHANG's Personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: Thank you for visiting. # text displayed in the footer
+footer_text: # text displayed in the footer
 keywords: Pu ZHANG, HKUST-GZ, 张谱, ZP, Red Bird MPhil  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
