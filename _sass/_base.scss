@@ -424,6 +424,12 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.mail {
+  color: #0077b5;
+  i::before {
+    color: inherit !important;
+  }
+}
 .orcid {
   color: #a6ce39;
   i::before {
