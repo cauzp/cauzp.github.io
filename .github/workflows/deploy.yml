@@ -10,6 +10,7 @@ on:
       - "**.html"
       - "**.js"
       - "**.liquid"
+      - "**.bib"  # 监视所有 .bib 文件的更改
       - "**/*.md"
       - "**.yml"
       - "Gemfile"
