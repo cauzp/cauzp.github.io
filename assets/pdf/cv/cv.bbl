@@ -1,0 +1,201 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{zhang2024shorts}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=c16b8dcff6e31e1be96b4f6a2eb66f5e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Pu},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=863b3c697cd32bd812b3948ee8e1934a}{%
+           family={Xu*},
+           familyi={X\bibinitperiod},
+           given={Corey\bibnamedelima Kewei},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e05c1146a387f543c510be38479b1c8c}
+      \strng{fullhash}{e05c1146a387f543c510be38479b1c8c}
+      \strng{bibnamehash}{e05c1146a387f543c510be38479b1c8c}
+      \strng{authorbibnamehash}{e05c1146a387f543c510be38479b1c8c}
+      \strng{authornamehash}{e05c1146a387f543c510be38479b1c8c}
+      \strng{authorfullhash}{e05c1146a387f543c510be38479b1c8c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ChineseCSCW 2024}
+      \field{note}{Conference Article, In Press}
+      \field{title}{How effective is the {Shorts} Transformation of Traditional Media? {An} analysis from the perspective of user-generated content}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{zhang2024research}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=c16b8dcff6e31e1be96b4f6a2eb66f5e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Pu},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=8c6d18e2d167e1a3dc88c0166bbc3471}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=24e1d141a570dd9d0616fc5232b59e73}{%
+           family={Kong*},
+           familyi={K\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{be14d184659832c55db3172551fedec8}
+      \strng{fullhash}{be14d184659832c55db3172551fedec8}
+      \strng{bibnamehash}{be14d184659832c55db3172551fedec8}
+      \strng{authorbibnamehash}{be14d184659832c55db3172551fedec8}
+      \strng{authornamehash}{be14d184659832c55db3172551fedec8}
+      \strng{authorfullhash}{be14d184659832c55db3172551fedec8}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Disaster Risk Reduction}
+      \field{note}{SCI Q1, IF: 5.0}
+      \field{title}{Research on online public opinion in the investigation of the {``7--20''} extraordinary rainstorm and flooding disaster in {Zhengzhou}, {China}}
+      \field{volume}{105}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{104422}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijdrr.2024.104422
+      \endverb
+    \endentry
+    \entry{zhang2024evolution}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=c16b8dcff6e31e1be96b4f6a2eb66f5e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Pu},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=8c6d18e2d167e1a3dc88c0166bbc3471}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=24e1d141a570dd9d0616fc5232b59e73}{%
+           family={Kong*},
+           familyi={K\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{be14d184659832c55db3172551fedec8}
+      \strng{fullhash}{be14d184659832c55db3172551fedec8}
+      \strng{bibnamehash}{be14d184659832c55db3172551fedec8}
+      \strng{authorbibnamehash}{be14d184659832c55db3172551fedec8}
+      \strng{authornamehash}{be14d184659832c55db3172551fedec8}
+      \strng{authorfullhash}{be14d184659832c55db3172551fedec8}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Hazards}
+      \field{note}{SCI Q2, IF: 3.7}
+      \field{title}{Study on the Evolution of Online Public Opinion and Government Response Strategies for the {``7--20''} extraordinary rainstorm and flooding disaster in {Zhengzhou}, {China}}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/s11069-024-06904-7
+      \endverb
+    \endentry
+    \entry{zhang2023study}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=c16b8dcff6e31e1be96b4f6a2eb66f5e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Pu},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=8c6d18e2d167e1a3dc88c0166bbc3471}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=24e1d141a570dd9d0616fc5232b59e73}{%
+           family={Kong*},
+           familyi={K\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fd6724bc2f26266cd148896528a4b7e}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Yulong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b64bf60bf1f5d11dad8a68369c031a3}
+      \strng{fullhash}{4b64bf60bf1f5d11dad8a68369c031a3}
+      \strng{bibnamehash}{4b64bf60bf1f5d11dad8a68369c031a3}
+      \strng{authorbibnamehash}{4b64bf60bf1f5d11dad8a68369c031a3}
+      \strng{authornamehash}{4b64bf60bf1f5d11dad8a68369c031a3}
+      \strng{authorfullhash}{4b64bf60bf1f5d11dad8a68369c031a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources And Hydropower Engineering}
+      \field{note}{In Chinese}
+      \field{number}{2}
+      \field{title}{A study on public opinion characteristics of rainstorm flooding disasters based on {Sina Weibo} data: take the three rainstorm flooding disasters in {China} in 2021 as an example}
+      \field{volume}{54}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{47\bibrangedash 59}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.13928/j.cnki.wrahe.2023.02.005
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
