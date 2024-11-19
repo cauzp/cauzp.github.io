@@ -10,17 +10,21 @@
 \usepackage{ragged2e}
 
 \usepackage[
-  style=authoryear,
-  maxbibnames=99,
-  maxcitenames=99,
-  backend=biber,
-  sorting=ydnt,
-  giveninits=false, % 显示全名
-  uniquename=full, % 姓名唯一性以全名区分
-  dashed=false
+   style=authoryear,
+   maxbibnames=99,
+   maxcitenames=99,
+   backend=biber,
+   sorting=ydnt,
+   giveninits=false,
+   uniquename=full,
+   dashed=false
 ]{biblatex}
 
 \addbibresource{cv.bib}
+
+% 设置姓名显示顺序为"名-姓"
+\DeclareNameAlias{sortname}{given-family}
+\DeclareNameAlias{default}{given-family}
 
 \DeclareFieldFormat[article,inproceedings]{title}{#1}
 \DeclareFieldFormat{volume}{\textbf{#1}}
