@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "Pu ZHANG",
+    "label": "PhD Applicant (2025 Fall)",
+    "email": "pzhang012@connect.hkust-gz.edu.cn",
+    "url": "https://pzhang.cn",
+    "summary": "Currently pursuing MPhil at HKUST(GZ), focusing on disaster-related online public opinion and LLMs application in risk perception research",
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=DBKpQPQAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0002-7501-2124"
+      },
+      {
+        "network": "Research Gate",
+        "url": "https://www.researchgate.net/profile/Pu-Zhang-33"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+      "area": "Innovation, Policy and Entrepreneurship",
+      "studyType": "MPhil",
+      "startDate": "2023-09-01",
+      "endDate": "2025-06-01",
+      "score": "Red Bird Scholar",
+      "supervisors": [
+        "Corey Kewei XU",
+        "Jing TANG"
+      ]
+    },
+    {
+      "institution": "China Agricultural University",
+      "area": "Regional Development in Rural Areas",
+      "studyType": "B.Mgt",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-22",
+      "score": "GPA: 3.51/4.0",
+      "supervisor": "Feng KONG"
+    },
+    {
+      "institution": "China Agricultural University",
+      "area": "Data Science and Big Data Technology",
+      "studyType": "B.Sc",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-22",
+      "score": "GPA: 3.47/4.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "R", "LaTeX"]
+    },
+    {
+      "name": "Software",
+      "keywords": ["Gephi", "ArcGIS", "VosViewer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese Mandarin",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "TOEFL 106 (July 2022)"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Red Bird MPhil Postgraduate Scholarship",
+      "date": "2023",
+      "awarder": "HKUST(GZ)"
+    },
+    {
+      "title": "National Inspiration Scholarship",
+      "date": "2022",
+      "awarder": "Ministry of Education"
+    },
+    {
+      "title": "Beijing Challenge Cup Second Prize",
+      "date": "2022"
+    },
+    {
+      "title": "China Telecom Scholarship",
+      "date": "2021"
+    }
+  ],
+  "research": [
+    {
+      "title": "Urban Resilience and Catastrophic Risk Analysis through AI",
+      "supervisor": "Corey Kewei XU & Jing TANG",
+      "startDate": "2023-09",
+      "current": true,
+      "summary": "Analyzed disaster-related public risk perception using social media data (1M+ Douyin, 2M+ TikTok posts). Implemented LLMs with few-shot learning for multilingual sentiment analysis and BERTopic for theme extraction. Integrated spatial analysis through ArcGIS and network visualization via Gephi, combining IP geolocation data with regional statistics for demographic pattern identification."
+    },
+    {
+      "title": "Research on Internet Public Opinion of Emergency Events Based on NLP",
+      "supervisor": "Feng KONG",
+      "startDate": "2022-09",
+      "current": true,
+      "summary": "Developed a Python-based web crawler for Weibo data collection and fine-tuned BERT models for sentiment analysis. Applied social network analysis using Gephi for thematic visualization, providing data-driven policy recommendations for public opinion governance."
+    }
+  ],
+  "publications": {
+    "workingPapers": [
+      {
+        "title": "From Economic Growth to Public Voice: How Development Shapes Governance Demands in the Digital Age",
+        "authors": ["Pu ZHANG"],
+        "journal": "Telematics and Informatics",
+        "status": "under review"
+      },
+      {
+        "title": "Navigating Public Risk Perception in Food Safety Crises: Insights from Social Media Discourse and Socio-Economic Dynamics",
+        "authors": ["Pu ZHANG", "Zheng WEI", "Feng KONG"],
+        "journal": "Risk Analysis",
+        "status": "under review"
+      },
+      {
+        "title": "Cultural Narratives and Sentiment Engagement of Game Discourse: Comparing Black Myth: Wukong Discussions on Douyin and TikTok",
+        "authors": ["Pu ZHANG", "Zheng WEI", "Junxiang LIAO", "Changyang HE"],
+        "conference": "ACM CSCW 2025",
+        "status": "submitted"
+      }
+    ]
+  },
+  "teaching": [
+    {
+      "institution": "HKUST (GZ)",
+      "position": "Teaching Assistant",
+      "course": "IPEN 5250: Text Analysis and Machine Learning",
+      "term": "Fall 2024"
+    }
+  ]
+}
